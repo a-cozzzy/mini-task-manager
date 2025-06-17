@@ -74,3 +74,19 @@ Use a real database instead of mock data
 Improve the user interface and design
 Add features like filters, search, and loading indicators
 Deploy the project so it's accessible online
+
+## Screenshots
+
+### 1. App Initialization
+<img src="./screenshots/init.png" alt="App Initialization" width="500"/>
+
+### 2. Adding a New Task
+<img src="./screenshots/add.png" alt="Add Task" width="500"/>
+
+### 3. Editing an Existing Task
+<img src="./screenshots/edit.png" alt="Edit Task" width="500"/>
+
+### 4. All Tasks Marked Done
+
+<img src="./screenshots/image.png" alt="All Tasks Done" width="500"/>
+
